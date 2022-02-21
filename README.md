@@ -1,2 +1,5 @@
 # kakeibot
-Simple telegram bot to run a kakeibo
+
+> Simple telegram bot to run a kakeibo
+
+⚠️Under construction, I just started the project⚠️
