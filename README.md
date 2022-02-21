@@ -1,4 +1,4 @@
-# kakeibot
+# kakeibo-bot
 
 > Simple telegram bot to run a kakeibo
 
